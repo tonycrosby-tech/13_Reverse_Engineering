@@ -1,7 +1,5 @@
-# 13_Reverse_Engineering
-
-# Tutorial for Files is as follows:
-
+13_Reverse_Engineering
+Tutorial for Files is as follows:
 ## Config
 ### Middleware--isAuthenticated.js:
 * If a user is not logged in it restricts a user back to the login page OR if the user is logged in they may continue with the request to the restricted route
